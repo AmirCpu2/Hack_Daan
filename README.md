@@ -1,8 +1,8 @@
 # Hack_Daan
-> \>>> git clone https://github.com/AmirCpu2/KiauHackPanelCrowler-.git<br/>
-> \>>> cd KiauHackPanelCrowler-<br/>
+> \>>> git clone https://github.com/AmirCpu2/Hack_Daan.git<br/>
+> \>>> cd Hackfull<br/>
 > \>>> pip install -r requirements.txt<br/>
-> \>>> python kiauRequest.py username password<br />
+> \>>> python Hackfull.py subDomain UserName PassWord startRangeId endRangeId<br />
 > out :<br />
 > Get courses----> Done .<br />
 > Save File To: {your location}\Hack_Daan\PandaDBcourses.csv<br />
