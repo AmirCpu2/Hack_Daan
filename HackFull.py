@@ -18,8 +18,8 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 class TestUntitled():
     table = []
     subDomain = 'kiau'
-    username = "115962097617"
-    password = "AMIRmb2503"
+    username = ""
+    password = ""
     startRangeId = 8200
     endRangeId = 14505
 
