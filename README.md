@@ -21,7 +21,7 @@
 <p> Export => PandaDBcourses.csv <p>
 
 # sample Export
-<img src="http://s10.picofile.com/file/8393417626/Screenshot_2020_04_08_Screenshot.png"/>
+<img src="https://github.com/AmirCpu2/Hack_Daan/blob/main/simpleExport/simple-HackDaan.png"/>
 
 # License
 <p>Feel free to use this source code to modify or deploy to your own project.</p>
