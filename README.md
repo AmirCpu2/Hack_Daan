@@ -8,7 +8,7 @@
 > Save File To: {your location}\Hack_Daan\PandaDBcourses.csv<br />
 
 # Overview
-<p> این برنامه میتواند اطلاعات تمامی کلاسهای سرویس جلسات آنلاین دانشگاه هوشمند دان را به شما بدهد </p>
+<p> This program can give you information about all the online meeting service classes of Dan University </p>
 
 # Dependencies
 - selenium
