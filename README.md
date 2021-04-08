@@ -1,6 +1,6 @@
 # Hack_Daan
 > \>>> git clone https://github.com/AmirCpu2/Hack_Daan.git<br/>
-> \>>> cd Hackfull<br/>
+> \>>> cd Hack_Daan<br/>
 > \>>> pip install -r requirements.txt<br/>
 > \>>> python Hackfull.py subDomain UserName PassWord startRangeId endRangeId<br />
 > out :<br />
